@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=walk-code&show_icons=true&theme=dark)
+![An image of @morgannadev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/morgannadev)](https://holopin.io/@morgannadev)
